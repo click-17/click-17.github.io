@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合标清
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合高清
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合高清1
+http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合高清2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
