@@ -93,6 +93,11 @@ http://219.137.29.130:4433/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="纬来体育" tvg-name="纬来体育" group-title="体育赛事",纬来体育
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 
+#其他
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="其他",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="其他",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1,CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
