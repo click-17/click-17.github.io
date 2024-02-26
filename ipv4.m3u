@@ -78,6 +78,10 @@ http://cyz32.livehbindex.hbcatv.cn/live/5000002013f84d40a0393b8549e48805.m3u8?bi
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-name="河北农民-标清" group-title="卫视",河北农民
 http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 tvg-name="河北农民" group-title="卫视",河北农民
+http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
+#EXTINF:-1 tvg-name="河北农民" group-title="卫视",河北农民
+http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
 #EXTINF:-1 tvg-name="山西卫视-标清" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视",山西卫视
 http://cyz32.livehbindex.hbcatv.cn/live/50000020ed0a4b74afc7e496c1bcc45c.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视",山西卫视
