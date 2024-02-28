@@ -78,7 +78,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-name="河北农民" group-title="卫视",河北农民
+#EXTINF:-1 tv-logo="https://epg.112114.xyz/logo/%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91.png" tvg-name="河北农民" group-title="卫视",河北农民
 http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
 #EXTINF:-1 tvg-name="河北农民" group-title="卫视",河北农民
 http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
