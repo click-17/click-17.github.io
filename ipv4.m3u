@@ -149,9 +149,9 @@ http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bi
 https://cloud.yumixiu768.com/tmp/123.m3u8
 
 #其他
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="其他",黑莓电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="其他",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="其他",黑莓动画
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="其他",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1,CGTN
