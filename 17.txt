@@ -122,11 +122,14 @@ CHC高清电影1,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 劲爆体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 国际,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文标清,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-凤凰资讯标清,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰香港,http://180.142.145.135:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+HBO台,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
+HBO 家庭台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
+东森戏剧台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+东森电影台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
