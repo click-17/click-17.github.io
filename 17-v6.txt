@@ -686,3 +686,5 @@ migu,#genre#
 咪咕足球赛事3,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=Shelly
 咪咕足球赛事4,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=Shelly
 咪咕足球赛事5,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=Shelly
+其他,#genre#
+凤凰卫视中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
