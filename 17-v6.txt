@@ -663,42 +663,6 @@ CCTV15,http://z.d4p.cn:8000/udp/239.49.1.15:6000
 好享购物,http://z.d4p.cn:8000/udp/239.49.0.103:8000
 家有购物,http://z.d4p.cn:8000/udp/239.49.0.112:8000
 聚鲨环球精选,http://z.d4p.cn:8000/udp/239.49.0.212:8000
-http://117.86.191.99:8889/rtp/239.49.0.82:8000 优质IP
-http://114.217.199.208:8888/rtp/239.49.0.82:8000 优质IP
-http://ss.btc8080.top:8188/rtp/239.49.0.82:8000 优质IP
-http://zhutianqi.2288.org:51200/rtp/239.49.0.82:8000 优质IP
-http://dxv4.wmmdwz.top:8888/rtp/239.49.0.82:8000 优质IP
-http://z.d4p.cn:8000/rtp/239.49.0.82:8000 优质IP
-http://xiazaiji.f3322.org:8800/rtp/239.49.0.82:8000 优质IP
-http://z.d4p.cn:8000/rtp/239.49.0.82:8000 优质IP
-http://bdctv.rdswkj.cn:8888/rtp/239.49.0.82:8000 优质IP
-http://bt.99y9.cc:18888/rtp/239.49.0.82:8000 优质IP
-http://ikuai.sunjianwu.fun:8800/rtp/239.49.0.82:8000 优质IP
-http://www.xinhuaifeiyang.top:6800/rtp/239.49.0.82:8000 风险IP
-http://mail.njbobo.com:4022/rtp/239.49.0.82:8000 优质IP
-http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.82:8000 优质IP
-http://chr.460513.xyz:8800/rtp/239.49.0.82:8000 优质IP
-http://kouki.pro:8888/rtp/239.49.0.82:8000 优质IP
-http://www.angel147.cf:9570/rtp/239.49.0.82:8000 优质IP
-http://www.angel147.cf:8888/rtp/239.49.0.82:8000 优质IP
-http://www.lyt.net.cn:5678/rtp/239.49.0.82:8000 优质IP
-http://dentist.dsmv.top:7777/rtp/239.49.0.82:8000 优质IP
-http://pjx.pujun.top:4023/rtp/239.49.0.82:8000 优质IP
-http://home.amucn.net:8800/rtp/239.49.0.82:8000 优质IP
-http://rathan.tech:2018/rtp/239.49.0.82:8000 优质IP
-http://walkershb.synology.me:888/rtp/239.49.0.82:8000 优质IP
-http://www.gcc125.cn:6888/rtp/239.49.0.82:8000 优质IP
-http://www.yzddy.top:8800/rtp/239.49.0.82:8000 优质IP
-http://kd3.gcc125.top:6888/rtp/239.49.0.82:8000 优质IP
-http://www.wxzmz.com:8800/rtp/239.49.0.82:8000 优质IP
-http://iptv.012122.xyz:9004/rtp/239.49.0.82:8000 优质IP
-http://frp.012122.xyz:9004/rtp/239.49.0.82:8000 优质IP
-http://nas.012122.xyz:9004/rtp/239.49.0.82:8000 优质IP
-http://xiazaiji.nt460513.eu.org:8800/rtp/239.49.0.82:8000 优质IP
-http://kd2.gcc125.top:6888/rtp/239.49.0.82:8000 优质IP
-http://kd1.gcc125.top:6888/rtp/239.49.0.82:8000 优质IP
-http://password.266999.xyz:55555/rtp/239.49.0.82:8000 优质IP
-http://ntdd.rdswkj.cn:8888/rtp/239.49.0.82:8000 优质IP
 
 migu,#genre#
 咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
