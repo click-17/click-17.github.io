@@ -420,8 +420,8 @@ BESTV赛事10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 东方购物3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226144/1.m3u8
 好享购物,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225781/1.m3u8
 jiangsu,#genre#
-CCTV1,http://password.266999.xyz:55555/udp/239.49.0.207:8000
-CCTV1,http://password.266999.xyz:55555/udp/239.49.8.19:9614
+CCTV1,http://kd3.gcc125.top:6888/udp/239.49.0.207:8000
+CCTV1,http://kd3.gcc125.top:6888/udp/239.49.8.19:9614
 CCTV2,http://password.266999.xyz:55555/udp/239.49.8.50:9802
 CCTV3,http://password.266999.xyz:55555/udp/239.49.8.74:8000
 CCTV3,http://password.266999.xyz:55555/udp/239.49.0.28:8000
