@@ -182,6 +182,7 @@ CCTV17农村[1920*1080],http://go.bkpcp.top/mg/cctv17
 新疆卫视[1920*1080],http://go.bkpcp.top/mg/xjws
 兵团卫视[1920*1080],http://go.bkpcp.top/mg/btws
 凤凰资讯[1920*1080],http://go.bkpcp.top/mg/fhzx
+凤凰中文[1920*1080],http://go.bkpcp.top/mg/fhzw
 北京移动-jd,#genre#
 CCTV1-综合,http://223.72.123.11:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://223.72.123.11:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
